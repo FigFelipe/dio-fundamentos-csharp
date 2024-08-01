@@ -1,0 +1,14 @@
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\bin\Debug\net8.0\dio-fundamentos-csharp.exe
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\bin\Debug\net8.0\dio-fundamentos-csharp.deps.json
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\bin\Debug\net8.0\dio-fundamentos-csharp.runtimeconfig.json
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\bin\Debug\net8.0\dio-fundamentos-csharp.dll
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\bin\Debug\net8.0\dio-fundamentos-csharp.pdb
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\dio-fundamentos-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\dio-fundamentos-csharp.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\dio-fundamentos-csharp.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\dio-fundamentos-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\dio-fundamentos-csharp.dll
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\refint\dio-fundamentos-csharp.dll
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\dio-fundamentos-csharp.pdb
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\dio-fundamentos-csharp.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\ref\dio-fundamentos-csharp.dll
