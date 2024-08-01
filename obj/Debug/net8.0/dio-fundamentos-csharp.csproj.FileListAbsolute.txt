@@ -12,3 +12,4 @@ C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\refint
 C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\dio-fundamentos-csharp.pdb
 C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\dio-fundamentos-csharp.genruntimeconfig.cache
 C:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\ref\dio-fundamentos-csharp.dll
+c:\Users\Felipe\Documents\Dev\DIO\dio-fundamentos-csharp\obj\Debug\net8.0\dio-fundamentos-csharp.sourcelink.json
