@@ -7,6 +7,11 @@
 ## Autor
 - [Felipe Figueiredo Bezerra](https://github.com/FigFelipe)
 
+#### Ambiente de Desenvolvimento
+
+ - **IDE**: Visual Studio Code (Community Edition)
+ - **SDK:** .NET 8.0
+   
 ## Tópicos
 ### Operadores de Atribuição
 
