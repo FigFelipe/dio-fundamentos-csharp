@@ -85,5 +85,36 @@ namespace dio_fundamentos_csharp.Topicos.ArraysListas
                 aux++;
             }
         }
+
+        public static void ExemploListas()
+        {
+            // A lista possui um tipo e tamanho dinamico
+            // Não é necessario gerenciar o tamanho da lista
+
+            // Criando uma lista com o nome 'listaString' do tipo 'string'
+            List<string> listaString = new List<string>();
+
+            // Adicionando elementos à lista
+            listaString.Add("SP");
+            listaString.Add("CE");
+            listaString.Add("RS");
+            listaString.Add("CE");
+            
+            // Verificando o tamanho da lista
+            System.Console.WriteLine($"Numero total de elementos da lista: {listaString.Count}");
+
+            // Retorna a primeira ocorrencia do elemento na busca
+            System.Console.WriteLine($"Busca [CE]: {listaString.Find(x => x.Contains("CE"))}");
+
+            // Removendo um elemento da lista
+            listaString.Remove("RS");
+
+            // Percorrendo os elementos da lista
+            foreach(string estado in listaString)
+            {
+                System.Console.WriteLine(estado);
+            }
+
+        }
     }
 }

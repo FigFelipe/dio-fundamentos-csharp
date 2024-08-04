@@ -46,4 +46,5 @@ using dio_fundamentos_csharp.Topicos.OperadoresLogicos;
 
 // 7. Topico 'Arrays e Listas'
 //ArraysListas.ExemploArrays();
-ArraysListas.CopiarArray();
+//ArraysListas.CopiarArray();
+ArraysListas.ExemploListas();
