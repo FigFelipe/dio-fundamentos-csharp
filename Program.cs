@@ -1,6 +1,7 @@
 ﻿using dio_fundamentos_csharp.Fundamentos;
 using dio_fundamentos_csharp.Models;
 using dio_fundamentos_csharp.OperadoresAtribuicao;
+using dio_fundamentos_csharp.Topicos.ArraysListas;
 using dio_fundamentos_csharp.Topicos.EstruturasRepeticao;
 using dio_fundamentos_csharp.Topicos.OperadoresAritmeticos;
 using dio_fundamentos_csharp.Topicos.OperadoresCondicionais;
@@ -41,4 +42,7 @@ using dio_fundamentos_csharp.Topicos.OperadoresLogicos;
 
 // 6. Topico 'Estruturas de Repetição'
 //EstruturasRepeticao.Tabuada(1);
-EstruturasRepeticao.MenuInterativo();
+//EstruturasRepeticao.MenuInterativo();
+
+// 7. Topico 'Arrays e Listas'
+ArraysListas.ExemploArrays();
