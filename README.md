@@ -63,3 +63,20 @@
 | Funções Trigonométricas  |
 | Incremento e Decremento |
 | Calculando Raiz Quadrada |
+
+---
+
+### Arrays e Listas
+
+| Tópico                          |
+|---------------------------------|
+| Introdução Array |
+| Implementando um array de inteiros |
+| Acessando um índice inválido |
+| Percorrendo um array com FOREACH |
+| Debugando um Array |
+| Redimensionando um Array |
+| Copiando um Array para outro |
+| Trabalhando com listas |
+| Encerramento do tema |
+
