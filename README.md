@@ -78,5 +78,4 @@
 | Redimensionando um Array |
 | Copiando um Array para outro |
 | Trabalhando com listas |
-| Encerramento do tema |
 
