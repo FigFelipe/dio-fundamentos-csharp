@@ -19,7 +19,6 @@ namespace dio_fundamentos_csharp.Topicos.ArraysListas
             // 3. Vetor do tipo 'string', já instanciado
             string[] meses = {"Jan", "Fev"};
 
-
             // Acessando os valores do array através do índice específico
             System.Console.WriteLine($"Indice [0]: {vetorX[0]}");
 
@@ -48,6 +47,43 @@ namespace dio_fundamentos_csharp.Topicos.ArraysListas
                 aux++;
             }
 
+            // Redimensionando o tamanho do array
+            // Ex.: dobrar o valor do array 'vetorX'
+            // Em resumo, o Array.Resize realiza uma copia do array informado
+            // para um novo array com o tamanho informado
+            Array.Resize(ref vetorX, vetorX.Length * 2);
+
+            System.Console.WriteLine($"\nTamanho atualizado do vetorX: {vetorX.Length}");
+
+        }
+
+        public static void CopiarArray()
+        {
+            int[] x = new int[4];
+
+            x[0] = 20;
+            x[1] = 31;
+            x[2] = 42;
+            x[3] = 53;
+            
+            int[] vetorTamanhoDobrado = new int[x.Length * 2];
+
+            // Copiando o vetor
+            Array.Copy(x, vetorTamanhoDobrado, x.Length);
+
+            // Verificando o tamanho total do novo vetor copiado
+            System.Console.WriteLine($"\nTamanho do vetor copiado: {vetorTamanhoDobrado.Length} elemento(s)\n");
+
+            // Percorrendo os valores do vetor copiado
+
+            int aux = 0;
+
+            foreach(int valor in vetorTamanhoDobrado)
+            {
+                System.Console.WriteLine($"Elemento [{aux}] : {valor}");
+
+                aux++;
+            }
         }
     }
 }
