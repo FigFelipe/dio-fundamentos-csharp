@@ -46,3 +46,15 @@
 | Operador AND na prática         |
 | Introdução operador NOT         |
 | Operador NOT na prática         |
+
+---
+
+### Operadores Artiméticos
+
+| Tópico                          |
+|---------------------------------|
+| Introdução operadores aritméticos |
+| Usando potência           |
+| Funções Trigonométricas  |
+| Incremento e Decremento |
+| Calculando Raiz Quadrada |
