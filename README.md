@@ -1,7 +1,14 @@
-**Autor: FigFelipe**
----
+# Curso: DIO - .NET e React (XP Inc. Full Stack Developer)
 
-# Operadores de Atribuição
+## Capítulo: Sintaxe básica com .NET C#
+> **Resumo:** Desenvolver habilidades para uso da sintaxe básica com .NET C#
+
+
+## Autor
+- [Felipe Figueiredo Bezerra](https://github.com/FigFelipe)
+
+## Tópicos
+### Operadores de Atribuição
 
 | Tópico                          |
 |---------------------------------|
@@ -16,7 +23,7 @@
 
 ---
 
-# Operadores Condicionais
+### Operadores Condicionais
 
 | Tópico                          |
 |---------------------------------|
@@ -26,11 +33,10 @@
 | IF aninhado                     |
 | Aprendendo o switch case        |
 
-CLIQUE AQUI PARA CONCLUIR ESSA AULA
 
 ---
 
-# Operadores Lógicos
+### Operadores Lógicos
 
 | Tópico                          |
 |---------------------------------|
