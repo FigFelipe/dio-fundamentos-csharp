@@ -17,7 +17,7 @@ namespace dio_fundamentos_csharp.Topicos.ArraysListas
             int[] vetorX = new int[] {42, 47, 75, 61};
 
             // 3. Vetor do tipo 'string', já instanciado
-            string[] nomes = {"Jan", "Fev"};
+            string[] meses = {"Jan", "Fev"};
 
 
             // Acessando os valores do array através do índice específico
@@ -28,7 +28,6 @@ namespace dio_fundamentos_csharp.Topicos.ArraysListas
 
             // FOR
             // Acessando todos os indices do vetor
-
             System.Console.WriteLine("\n--> FOR");
 
             for(int i = 0; i < vetorX.Length; i++)
