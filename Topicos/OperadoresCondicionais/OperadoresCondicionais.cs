@@ -28,7 +28,7 @@ namespace dio_fundamentos_csharp.Topicos.OperadoresCondicionais
         public static void Vogal()
         {
             System.Console.WriteLine("Digite uma letra: ");
-            string letra = System.Console.ReadLine();
+            string letra = Console.ReadLine();
 
             switch(letra)
             {
