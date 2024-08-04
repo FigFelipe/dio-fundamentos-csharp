@@ -1,6 +1,7 @@
 ﻿using dio_fundamentos_csharp.Fundamentos;
 using dio_fundamentos_csharp.Models;
 using dio_fundamentos_csharp.OperadoresAtribuicao;
+using dio_fundamentos_csharp.Topicos.EstruturasRepeticao;
 using dio_fundamentos_csharp.Topicos.OperadoresAritmeticos;
 using dio_fundamentos_csharp.Topicos.OperadoresCondicionais;
 using dio_fundamentos_csharp.Topicos.OperadoresLogicos;
@@ -21,19 +22,23 @@ using dio_fundamentos_csharp.Topicos.OperadoresLogicos;
 //OperadoresLogicos.OperadorLogico();
 
 // 5. Topico 'Operadores Aritmeticos'
-OperadoresAritmeticos.Somar(20, 30);
-OperadoresAritmeticos.Subtrair(20, 30);
-OperadoresAritmeticos.Multiplicar(20, 30);
-OperadoresAritmeticos.Dividir(20, 30);
+// OperadoresAritmeticos.Somar(20, 30);
+// OperadoresAritmeticos.Subtrair(20, 30);
+// OperadoresAritmeticos.Multiplicar(20, 30);
+// OperadoresAritmeticos.Dividir(20, 30);
 
-OperadoresAritmeticos.Resto(20, 5);
-OperadoresAritmeticos.Potencia(3, 2);
+// OperadoresAritmeticos.Resto(20, 5);
+// OperadoresAritmeticos.Potencia(3, 2);
 
-OperadoresAritmeticos.Seno(30);
-OperadoresAritmeticos.Cosseno(30);
-OperadoresAritmeticos.Tangente(30);
+// OperadoresAritmeticos.Seno(30);
+// OperadoresAritmeticos.Cosseno(30);
+// OperadoresAritmeticos.Tangente(30);
 
-OperadoresAritmeticos.Incremento(10);
-OperadoresAritmeticos.Decremento(10);
+// OperadoresAritmeticos.Incremento(10);
+// OperadoresAritmeticos.Decremento(10);
 
-OperadoresAritmeticos.RaizQuadrada(521);
+// OperadoresAritmeticos.RaizQuadrada(521);
+
+// 6. Topico 'Estruturas de Repetição'
+//EstruturasRepeticao.Tabuada(1);
+EstruturasRepeticao.MenuInterativo();
